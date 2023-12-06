@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="western_titles_arr">
+        <item>@string/steak_title</item>
+        <item>@string/pasta_title</item>
+        <item>@string/mushroom_soup_title</item>
+    </string-array>
+
+    <string-array name="western_recipe_desc_arr">
+        <item>@string/steak_desc</item>
+        <item>@string/pasta_desc</item>
+        <item>@string/mushroom_soup_desc</item>
+    </string-array>
+
+    <string-array name="western_recipe_short_desc">
+        <item>@string/steak_short_desc</item>
+        <item>@string/pasta_short_desc</item>
+        <item>@string/mushroom_soup_short_desc</item>
+    </string-array>
+
+    <string-array name="western_recipe_ingredients_arr">
+        <item>@string/steak_bahan</item>
+        <item>@string/pasta_bahan</item>
+        <item>@string/mushroom_soup_bahan</item>
+    </string-array>
+
+    <string-array name="western_recipe_tools_arr">
+        <item>@string/steak_alat</item>
+        <item>@string/pasta_alat</item>
+        <item>@string/mushroom_soup_alat</item>
+    </string-array>
+
+    <string-array name="western_recipe_steps">
+        <item>@string/steak_steps</item>
+        <item>@string/pasta_steps</item>
+        <item>@string/mushroom_soup_steps</item>
+    </string-array>
+
+    <integer-array name="western_drawable_arr">
+        <item>@drawable/steak</item>
+        <item>@drawable/pasta</item>
+        <item>@drawable/mushroom_soup</item>
+    </integer-array>
+
+    <array name="western">
+        <item>@array/western_titles_arr</item>
+        <item>@array/western_recipe_short_desc</item>
+        <item>@array/western_recipe_ingredients_arr</item>
+        <item>@array/western_recipe_tools_arr</item>
+        <item>@array/western_recipe_short_desc</item>
+        <item>@array/western_drawable_arr</item>
+    </array>
+    
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recent_recipes_titles_arr">
+        <item>@string/ramen_title</item>
+        <item>@string/nasi_bali_title</item>
+        <item>@string/tempura_title</item>
+    </string-array>
+
+    <string-array name="recent_recipe_desc_arr">
+        <item>@string/ramen_desc</item>
+        <item>@string/nasi_bali_desc</item>
+        <item>@string/tempura_desc</item>
+    </string-array>
+
+    <string-array name="recent_recipe_short_desc">
+        <item>@string/ramen_short_desc</item>
+        <item>@string/nasi_bali_short_desc</item>
+        <item>@string/tempura_short_desc</item>
+    </string-array>
+
+    <string-array name="recent_recipe_ingredients_arr">
+        <item>@string/ramen_bahan</item>
+        <item>@string/nasi_bali_bahan</item>
+        <item>@string/tempura_bahan</item>
+    </string-array>
+
+    <string-array name="recent_recipe_tools_arr">
+        <item>@string/ramen_alat</item>
+        <item>@string/nasi_bali_alat</item>
+        <item>@string/tempura_alat</item>
+    </string-array>
+
+    <string-array name="recent_recipe_steps">
+        <item>@string/ramen_steps</item>
+        <item>@string/nasi_bali_steps</item>
+        <item>@string/tempura_steps</item>
+    </string-array>
+
+    <integer-array name="recent_recipe_drawable_arr">
+        <item>@drawable/ramen</item>
+        <item>@drawable/nasi_bali</item>
+        <item>@drawable/tempura</item>
+    </integer-array>
+
+</resources>

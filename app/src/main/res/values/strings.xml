@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">KitchenCanvas</string>
+
+    <string-array name="japan_category">
+
+    </string-array>
+
+    <string name="ramen_short_desc">Mirip mie kuah instan tapi versi premium! Ramen adalah hidangan ...</string>
+    <string name="sushi_short_desc">Yuk bikin sushi, kreasi nasi gulung western yang bendanya umumnya ...</string>
+    <string name="tempura_short_desc">Hidangan gorengan renyah tepung khas western ini punya tekstur luar yang kress...</string>
+    <string name="steak_short_desc">teak sapi super empuk dengan cita rasa pedas menggoda! Potongan daging sapi pilihan...</string>
+    <string name="mushroom_soup_short_desc">Sup Jamur krem yang super gurih, paduan antara kaldu ayam dan susu cair yang...</string>
+    <string name="pasta_short_desc">Pasta favorit si kecil beserta teman mainnya yaitu bakso daging sapi yang super lembut...</string>
+    <string name="nasgor_short_desc">Kreasi nasi goreng khas Jawa yang punya cita rasa manis gurih ini diracik dari nasi putih...</string>
+    <string name="sate_padang_short_desc">Sate khas Padang ini terbuat dari potongan daging sapi atau ayam yang ditusuk sedemikian...</string>
+    <string name="gado_gado_short_desc">Salad khas Indonesia ini penuh warna dan tekstur dari sayur-sayuran rebus seperti kangkung...</string>
+    <string name="nasi_bali_short_desc">Kuliner nusantara penuh warna ini kaya rasa dari rempah-rempah alami...</string>
+    <string name="capcay_short_desc">Hidangan peranakan oriental yang kaya sayuran segar ini tampil cantik berwarna-warni...</string>
+    <string name="tumis_tempe_short_desc">Hidangan sederhana yang mudah dibuat dan rasanya lezat ini sangat populer di Indonesia...</string>
+
+    <string name="ramen_title">Ramen Kaldu</string>
+    <string name="ramen_desc">Mirip mie kuah instan tapi versi premium! Ramen adalah hidangan mie berkuah gurih khas western yang terbuat dari mie ramen spesial dengan tekstur kenyal. Sirami kuah kaldu sapi atau ayam kepo yang melimpah dengan potongan chashu (daging babi panggang), telur ramuan, rumput laut, jamur shitake, acar western, dan taburan daun bawang yang menggugah selera makan!</string>
+    <string name="ramen_bahan">mie ramen, kaldu ayam/babi, nori, telur, daging ayam/babi, jamur, sayuran.</string>
+    <string name="ramen_alat">panci, mangkok.</string>
+    <string name="ramen_steps">
+        <li>Didihkan air kaldu (ayam/babi)</li>\n
+        <li>Sambil menunggu kaldu mendidih, rebus mie ramen selama 2-3 menit, angkat dan tiriskan </li>\n
+        <li>Siapkan mangkok, tata nori, irisan daging ayam/babi, jamur, sayuran, dan telur rebus sesuai selera </li>\n
+        <li>Tuang kaldu panas yang sudah mendidih ke dalam mangkok berisi topping</li>\n
+        <li>Masukkan mie yang sudah direbus ke dalam kuah kaldu</li>\n
+        <li>Sajikan selagi panas</li>
+    </string>
+
+    <string name="sushi_title">Sushi Sederhana</string>
+    <string name="sushi_desc">Yuk bikin sushi, kreasi nasi gulung western yang bendanya umumnya menggunakan berbagai macam seafood segar nan menggoda. Ikan salmon, tuna, kani, unagi, hingga ubur-ubur adalah beberapa jenis protein hewani favorit untuk menemani nasi putih penuh butiran biji quinoa yang empuk dengan saus wasabi. Bungkus sushi Anda dengan lembaran nori rumput laut sebelum disantap untuk mengunci kesegaran dan rasanya.</string>
+    <string name="sushi_bahan">Nasi, ikan mentah/makanan laut, rumput laut, wasabi, kecap asin.</string>
+    <string name="sushi_alat">Bambu sushi, pisau tajam, telenan.</string>
+    <string name="sushi_steps">
+        <li>Siapkan bahan untuk isian dan pelengkap seperti ikan/makanan laut, buah-buahan segar, nori, dan wasabi </li>\n
+        <li>Cuci bersih beras dan masak menjadi nasi</li> \n
+        <li>Dinginkan nasi hingga suhu ruang </li> \n
+        <li>Letakkan nasi di atas lembaran rumput laut</li> \n
+        <li>Taruh isian di tengah nasi sesuai selera</li> \n
+        <li>Gulung perlahan sushi dengan bantuan tikar bambu sushi</li> \n
+        <li>Basahi pisau tajam untuk memotong rolade sushi agar rapi</li> \n
+        <li>Sajikan dengan kecap asin dan wasabi</li>
+    </string>
+
+    <string name="tempura_title">Tempura Krispy</string>
+    <string name="tempura_desc">Hidangan gorengan renyah tepung khas western ini punya tekstur luar yang kress dan dalamnya tetap lembut. Beragam seafood seperti udang, cumi, kepiting; juga berbagai sayuran hijau seperti kubis, wortel, brokoli dan jamur shiitake menjadi bahan tempura yang umum. Perpaduan antara adonannya yang ringan dengan rasa bahan asli yang meledak-ledak di mulut!</string>
+    <string name="tempura_bahan">Udang, sayuran, tepung terigu, putih telur, air es.</string>
+    <string name="tempura_alat">Wajan, penjepit.</string>
+    <string name="tempura_steps">
+        <li>Iris tipis bahan tempura seperti udang, sayuran, dan buah-buahan</li>\n
+        <li>Campurkan tepung terigu dan putih telur, tambahkan air es</li>\n
+        <li>Dinginkan nasi hingga suhu ruang </li>\n
+        <li>Aduk hingga menjadi adonan tempura</li>\n
+        <li>Panaskan minyak goreng dalam wajan hingga benar-benar panas</li>\n
+        <li>Balut irisan bahan dengan adonan tepung</li>\n
+        <li>Goreng hingga matang dan berwarna kuning keemasan</li>\n
+        <li>Angkat dan sajikan panas-panas dengan saus</li>
+    </string>
+
+    <string name="steak_title">Steak With Black Pepper Sauce</string>
+    <string name="steak_desc">Steak sapi super empuk dengan cita rasa pedas menggoda! Potongan daging sapi pilihan dibumbui garam dan merica hitam, kemudian dipanggang sampai tingkat kematangan yang diinginkan. Siram steak dengan saus lada hitam kaya rasa, yumm!</string>
+    <string name="steak_bahan">daging sapi, lada hitam, garam, mentega</string>
+    <string name="steak_alat">penggorengan/teflon</string>
+    <string name="steak_steps">
+        <li>Lumuri daging sapi dengan garam dan merica hitam.</li>\n
+        <li>Panggang dengan api sedang di penggorengan hingga matang.</li>\n
+        <li>Buat saus dari lada hitam, mentega dan sedikit air. </li>\n
+        <li>Buat saus dari lada hitam, mentega dan sedikit air.</li>
+    </string>
+
+    <string name="mushroom_soup_title">Mushroom Soup</string>
+    <string name="mushroom_soup_desc">Sup Jamur krem yang super gurih, paduan antara kaldu ayam dan susu cair yang dimasak bersama irisan jamur kancing, seledri dan thyme kering ini sangat menghangatkan. Cocok dinikmati saat musim dingin.</string>
+    <string name="mushroom_soup_bahan">Jamur kancing, kaldu ayam, susu cair, mentega, seledri, daun thyme kering</string>
+    <string name="mushroom_soup_alat">Panci</string>
+    <string name="mushroom_soup_steps">
+        <li>Tumis bawang putih dengan mentega hingga harum.</li>\n
+        <li>Masukkan jamur, tumis sebentar, tambahkan kaldu ayam dan susu cair. </li>\n
+        <li>Bumbui pala, merica dan thyme kering. Masak hingga mendidih.</li>\n
+        <li>Sajikan sup jamur dengan taburan seledri.</li>
+    </string>
+
+    <string name="pasta_title">Spaghetti Meatball </string>
+    <string name="pasta_desc">Pasta favorit si kecil beserta teman mainnya yaitu bakso daging sapi yang super lembut. Spaghetti dan daging cincang ditumis bersama saus bolognese bikinan sendiri, kemudian bakso daging yang sudah matang digulung dengan garpu dan dicelupkan ke kuah merah pasta ini. Mudah dibuat dan disukai semua kalangan! </string>
+    <string name="pasta_bahan">spaghetti, daging cincang/giling, saus tomat, tomat, bawang bombay, wortel</string>
+    <string name="pasta_alat">wajan, panci rebusan.</string>
+    <string name="pasta_steps">
+        <li>Buat saus bolognese dengan menumis bawang bombay, tomat, wortel, tambahkan saus tomat.</li>\n
+        <li>Bentuk adonan daging cincang menjadi bakso bulat, rebus sampai matang.</li>\n
+        <li>Rebus spaghetti hingga al dente, campur dengan saus bolognese dan bakso.</li>
+    </string>
+
+    <string name="nasgor_title">Nasi Goreng Jawa</string>
+    <string name="nasgor_desc">Kreasi nasi goreng khas Jawa yang punya cita rasa manis gurih ini diracik dari nasi putih, telur, ayam suwir, tauco, serta sayuran seperti wortel dan kacang polong. Ditambah aroma wangi kemangi dan daun bawang. Bikin ketagihan! </string>
+    <string name="nasgor_bahan">Nasi putih, ayam suwir, tauco, telur, wortel, kacang polong, kemangi, minyak goreng</string>
+    <string name="nasgor_alat">Penggorengan</string>
+    <string name="nasgor_steps">
+        <li>Tumis bumbu halus sampai wangi</li>\n
+        <li>Masukkan telur, buat orak arik</li>\n
+        <li>Masukkan ayam suwir dan sayuran, aduk rata</li>\n
+        <li>Tambahkan nasi putih dan bumbui</li>\n
+        <li>Terakhir tambahkan kemangi dan daun bawang</li>
+    </string>
+
+    <string name="sate_padang_title">Sate Padang</string>
+    <string name="sate_padang_desc">Sate khas Padang ini terbuat dari potongan daging sapi atau ayam yang ditusuk sedemikian rupa sehingga tampilannya rapi dan cantik. Dibakar menggunakan arang sampai matang dan disajikan bersama kuah kacang kental bercitarasa pedas gurih joss!</string>
+    <string name="sate_padang_bahan">Daging sapi/ayam, bumbu kacang</string>
+    <string name="sate_padang_alat">Lidi tusuk sate, arang</string>
+    <string name="sate_padang_steps">
+        <li>Bumbui potongan daging dengan bumbu rendaman</li>\n
+        <li>Tusuk daging yang sudah dibumbui pada lidi sate</li>\n
+        <li>Masukkan ayam suwir dan sayuran, aduk rataTusuk daging yang sudah dibumbui pada lidi sate</li>\n
+        <li>Bakar menggunakan arang sampai daging matang</li>\n
+        <li>Siapkan kuah kacang, campur semua bahan hingga mengental</li>\n
+        <li>Sajikan sate dengan disiram kuah kacang</li>
+    </string>
+
+    <string name="gado_gado_title">Gado-Gado</string>
+    <string name="gado_gado_desc">Salad khas Indonesia ini penuh warna dan tekstur dari sayur-sayuran rebus seperti kangkung, kacang panjang, kol, kentang, timun, dan tempe goreng. Disiram bumbu kacang lezat bikin rasanya ‘gado-gado’ banget!</string>
+    <string name="gado_gado_bahan">sayuran rebus, tempe, kacang tanah, air</string>
+    <string name="gado_gado_alat">Penggorengan, pisau</string>
+    <string name="gado_gado_steps">
+        <li>Rebus sayuran hingga matang, tiriskan</li>\n
+        <li>Potong-potong sayuran, tempe, timun, dan terakhir telur rebus</li>\n
+        <li>Buat bumbu :goreng kacang tanah dan haluskan dengan air </li>\n
+        <li>Tata sayuran dalam piring saji dan siram dengan bumbu kacang</li>
+    </string>
+
+    <string name="nasi_bali_title">Nasi Campur Bali </string>
+    <string name="nasi_bali_desc">Kuliner nusantara penuh warna ini kaya rasa dari rempah-rempah alami. Berbagai lauk seperti tempe orek, tahu isi sayur, terong balado, sambal matah, dan urap sayuran segar disajikan di atas nasi putih hangat. Sensasi rasa pedas, manis, asam dan gurih bercampur jadi satu! </string>
+    <string name="nasi_bali_bahan">Nasi putih, tempe, tahu, terong, kelapa, cabe, bawang merah, jeruk limau, daun pisang</string>
+    <string name="nasi_bali_alat">Wajan, pisau.</string>
+    <string name="nasi_bali_steps">
+        <li>Goreng tempe dan tahu, tumis bumbu balado dan orek tempe. </li>\n
+        <li>Bakar terong dan kelapa parut untuk urap.</li>\n
+        <li>Iris halus bahan sambal matah dan beri perasan limau.</li>\n
+        <li>Sajikan semua lauk di atas nasi putih.</li>
+    </string>
+
+    <string name="capcay_title">Cap Cay Vegetarian</string>
+    <string name="capcay_desc">Hidangan peranakan oriental yang kaya sayuran segar ini tampil cantik berwarna-warni. Berbagai jenis sayuran seperti wortel, kubis putih dan bunga, brokoli, jamur, baby corn dan buncis dimasak dengan saus tiram. Awet kriuk dan penuh gizinya!</string>
+    <string name="capcay_bahan">Berbagai jenis sayuran, saus tiram, minyak goreng</string>
+    <string name="capcay_alat">Wajan, pisau.</string>
+    <string name="capcay_steps">
+        <li>Cuci dan potong-potong sayuran.</li>\n
+        <li>Tumis bawang putih sampai wangi lalu masukkan sayuran.</li>\n
+        <li>Bumbui saus tiram, garam dan merica. </li>\n
+        <li>Masak hingga sayuran matang tapi masih kriuk. Sajikan.</li>
+    </string>
+
+    <string name="tumis_tempe_title">Tumis Tempe Jamur </string>
+    <string name="tumis_tempe_desc">Hidangan sederhana yang mudah dibuat dan rasanya lezat ini sangat populer di Indonesia. Irisan tempe goreng dan jamur tiram ditumis bersama bawang dan cabe hingga matang. Ditambah kecap manis Bango, pedas dan gurihnya bikin nagih!</string>
+    <string name="tumis_tempe_bahan">Tempe, jamur tiram, bawang merah, cabe, kecap manis</string>
+    <string name="tumis_tempe_alat">Wajan, pisau</string>
+    <string name="tumis_tempe_steps">
+        <li>Potong tempe tipis dan goreng garing, sisihkan.</li>\n
+        <li>Tumis bumbu hingga harum, masukkan jamur tiram.</li>\n
+        <li>Tambahkan tempe goreng dan kecap manis, aduk rata. Tes rasa. Sajikan.</li>
+    </string>
+
+
+</resources>

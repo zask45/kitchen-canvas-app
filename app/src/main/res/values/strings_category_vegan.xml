@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vegan_titles_arr">
+        <item>@string/nasi_bali_title</item>
+        <item>@string/capcay_title</item>
+        <item>@string/tumis_tempe_title</item>
+    </string-array>
+
+    <string-array name="vegan_recipe_desc_arr">
+        <item>@string/nasi_bali_desc</item>
+        <item>@string/capcay_desc</item>
+        <item>@string/tumis_tempe_desc</item>
+    </string-array>
+
+    <string-array name="vegan_recipe_short_desc">
+        <item>@string/nasi_bali_short_desc</item>
+        <item>@string/capcay_short_desc</item>
+        <item>@string/tumis_tempe_short_desc</item>
+    </string-array>
+
+    <string-array name="vegan_recipe_ingredients_arr">
+        <item>@string/nasi_bali_bahan</item>
+        <item>@string/capcay_bahan</item>
+        <item>@string/tumis_tempe_bahan</item>
+    </string-array>
+
+    <string-array name="vegan_recipe_tools_arr">
+        <item>@string/nasi_bali_alat</item>
+        <item>@string/capcay_alat</item>
+        <item>@string/tumis_tempe_alat</item>
+    </string-array>
+
+    <string-array name="vegan_recipe_steps">
+        <item>@string/nasi_bali_steps</item>
+        <item>@string/capcay_steps</item>
+        <item>@string/tumis_tempe_steps</item>
+    </string-array>
+
+    <integer-array name="vegan_drawable_arr">
+        <item>@drawable/nasi_bali</item>
+        <item>@drawable/capcay</item>
+        <item>@drawable/tumis_tempe</item>
+    </integer-array>
+
+    <array name="vegan">
+        <item>@array/vegan_titles_arr</item>
+        <item>@array/vegan_recipe_short_desc</item>
+        <item>@array/vegan_recipe_ingredients_arr</item>
+        <item>@array/vegan_recipe_tools_arr</item>
+        <item>@array/vegan_recipe_short_desc</item>
+        <item>@array/vegan_drawable_arr</item>
+    </array>
+
+</resources>

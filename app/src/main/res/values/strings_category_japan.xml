@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="japan_titles_arr">
+        <item>@string/ramen_title</item>
+        <item>@string/sushi_title</item>
+        <item>@string/tempura_title</item>
+    </string-array>
+
+    <string-array name="japan_recipe_desc_arr">
+        <item>@string/ramen_desc</item>
+        <item>@string/sushi_desc</item>
+        <item>@string/tempura_desc</item>
+    </string-array>
+
+    <string-array name="japan_recipe_short_desc">
+        <item>@string/ramen_short_desc</item>
+        <item>@string/nasi_bali_short_desc</item>
+        <item>@string/tempura_short_desc</item>
+    </string-array>
+
+    <string-array name="japan_recipe_ingredients_arr">
+        <item>@string/ramen_bahan</item>
+        <item>@string/sushi_bahan</item>
+        <item>@string/tempura_bahan</item>
+    </string-array>
+
+    <string-array name="japan_recipe_tools_arr">
+        <item>@string/ramen_alat</item>
+        <item>@string/sushi_alat</item>
+        <item>@string/tempura_alat</item>
+    </string-array>
+
+    <string-array name="japan_recipe_steps">
+        <item>@string/ramen_steps</item>
+        <item>@string/sushi_steps</item>
+        <item>@string/tempura_steps</item>
+    </string-array>
+
+    <integer-array name="japan_drawable_arr">
+        <item>@drawable/ramen</item>
+        <item>@drawable/sushi_crop</item>
+        <item>@drawable/tempura</item>
+    </integer-array>
+
+    <array name="japan">
+        <item>@array/japan_titles_arr</item>
+        <item>@array/japan_recipe_short_desc</item>
+        <item>@array/japan_recipe_ingredients_arr</item>
+        <item>@array/japan_recipe_tools_arr</item>
+        <item>@array/japan_recipe_short_desc</item>
+        <item>@array/japan_drawable_arr</item>
+    </array>
+
+</resources>

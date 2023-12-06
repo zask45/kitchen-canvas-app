@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nusantara_titles_arr">
+        <item>@string/nasgor_title</item>
+        <item>@string/sate_padang_title</item>
+        <item>@string/gado_gado_title</item>
+    </string-array>
+
+    <string-array name="nusantara_recipe_desc_arr">
+        <item>@string/nasgor_desc</item>
+        <item>@string/sate_padang_desc</item>
+        <item>@string/gado_gado_desc</item>
+    </string-array>
+
+    <string-array name="nusantara_recipe_short_desc">
+        <item>@string/nasgor_short_desc</item>
+        <item>@string/sate_padang_short_desc</item>
+        <item>@string/gado_gado_short_desc</item>
+    </string-array>
+
+    <string-array name="nusantara_recipe_ingredients_arr">
+        <item>@string/nasgor_bahan</item>
+        <item>@string/sate_padang_bahan</item>
+        <item>@string/gado_gado_bahan</item>
+    </string-array>
+
+    <string-array name="nusantara_recipe_tools_arr">
+        <item>@string/nasgor_alat</item>
+        <item>@string/sate_padang_alat</item>
+        <item>@string/gado_gado_alat</item>
+    </string-array>
+
+    <string-array name="nusantara_steps">
+        <item>@string/nasgor_steps</item>
+        <item>@string/sate_padang_steps</item>
+        <item>@string/gado_gado_steps</item>
+    </string-array>
+
+    <integer-array name="nusantara_drawable_arr">
+        <item>@drawable/nasgor</item>
+        <item>@drawable/sate_padang</item>
+        <item>@drawable/gado_gado</item>
+    </integer-array>
+
+    <array name="nusantara">
+        <item>@array/nusantara_titles_arr</item>
+        <item>@array/nusantara_recipe_short_desc</item>
+        <item>@array/nusantara_recipe_ingredients_arr</item>
+        <item>@array/nusantara_recipe_tools_arr</item>
+        <item>@array/nusantara_recipe_short_desc</item>
+        <item>@array/nusantara_drawable_arr</item>
+    </array>
+
+</resources>
