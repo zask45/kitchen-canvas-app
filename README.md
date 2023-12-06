@@ -1,6 +1,6 @@
 # KitchenCanvas  
 
-KitchenCanvas is a mobile app designed to view recipes for various cuisines. There are various categories such as Japanese cuisine and vegan diets that contain selected recipes that can make it easier for users to choose recipes. This application is built with Kotlin by utilizing RecyclerView, Intent, and Extra. Built with Android Studio.
+KitchenCanvas is a mobile app designed to view recipes for various cuisines. There are various categories such as Japanese cuisine and vegan diets that contain selected recipes that can make it easier for users to choose recipes. This application is built with Kotlin by utilizing RecyclerView, Intent, and Extra. Built with Android Studio. App is only available in Indonesian Language.
 
 ### Application Architecture
 ---
