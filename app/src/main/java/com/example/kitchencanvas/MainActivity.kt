@@ -1,13 +1,3 @@
-/*
-ANGGOTA:
-
-1. Keysha Zascha Medina 09021282126108
-2. Haji RiskY 09021282126097
-3. M Agil Faturrahman 09021282126110
-4. Deva Saumena 09021182126032
-5. Al Amin 09021282126095
-
-* */
 
 package com.example.kitchencanvas
 
