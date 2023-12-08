@@ -6,7 +6,7 @@ KitchenCanvas is a mobile app designed to view recipes for various cuisines. The
 ---
 - IDE: Android Studio
 - Language: Kotlin
-- Minimum SDK: API 14 (Android 4.4, "KitKat")
+- Minimum SDK: API 21
 - Compile SDK: API 34
 
 ### Demo
