@@ -11,9 +11,7 @@ KitchenCanvas is a mobile app designed to view recipes for various cuisines. The
 
 ### Demo
 ---
-<img src="https://github.com/zask45/KitchenCanvas-App/assets/117462539/42942c66-db33-4e44-adb3-803fb88d3f97" width="25%">
-
-
+<img src="https://github.com/zask45/kitchen-canvas-app/assets/117462539/6fb29eaf-37ab-4db5-a035-41c3609a6f09" width="25%">
 
 
 
